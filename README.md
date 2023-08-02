@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You won't find much anything here except lots of random garbage code I play with. I try out languages and frameworks left and right, and have come to the conclusion that there isn't a perfect language with a perfect ecosystem. Trade-offs everywhere! If there was a perfect language, it'd have:
+You won't find much anything here except lots of random garbage code I play with. I try out languages and frameworks left and right, and have come to the conclusion that there isn't a perfect language with a perfect ecosystem. Trade-offs everywhere! 
+
+If there was a perfect language, it'd have:
 1. Easy tooling and std lib for the web and linux based work, e.g. Rust, Go
 2. Some type system b/t Haskell and OCaml with fast compilation tools
 3. Cross-platform executable binary
