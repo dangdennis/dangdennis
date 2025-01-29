@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You won't find much anything here except lots of random garbage code I play with. I try out languages and frameworks left and right, and have unfortunately come to the conclusion that there isn't a perfect language with a perfect ecosystem. Trade-offs must exist.
+You won't find much anything here except lots of random garbage code I play with.
 
 If there was a perfect language, it'd have:
 1. Unified tooling and stdlib for networking and unix APIs, e.g. cargo, go, dotnet, lsp.
