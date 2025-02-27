@@ -1,19 +1,4 @@
-### Hi there 👋
-
-<!--
-**dangdennis/dangdennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello
 
 You won't find much anything here except lots of random garbage code I play with.
 
@@ -27,7 +12,5 @@ Nearly all my work is in private repos owned by employers. My truly garbage repo
 
 # Readings
 
-- [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html) by Eric Steven Raymond
-- [Writing an OS in Rust](https://os.phil-opp.com/) by Philipp Oppermann
-- [Just for Fun. No, Really](https://justforfunnoreally.dev/)
-- https://www.hardmo.de/article/2021-03-14-zst-proof-types.md
+Reading into [algebraic effects](https://github.com/yallop/effects-bibliography). 
+
