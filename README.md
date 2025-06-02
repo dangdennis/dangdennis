@@ -8,7 +8,7 @@ If there was a perfect language, it'd have:
 3. Can build cross-platform binaries.
 4. Some supervisor-actor + green threads library or runtime, i.e. no function coloring, e.g. BEAM, go, jvm virtual threads.
 
-Unfortunately, there will never be perfect language because certain features are diametrically opposed (a little overexaggerated). [A fun post](https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/) by someone I admire goes into the details a bit.
+Unfortunately, there will never be a perfect, general-purpose language because certain features are diametrically opposed (a little overexaggerated). [A fun post](https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/) by someone I admire goes into the details a bit. Perhaps the future is vertically integrated programming languages, especially now with the advent of LLMs, if LLMs can create and/or use provably correct DSLs.
 
 Nearly all my work is in private repos owned by employers. My truly garbage repos are also private.
 
