@@ -13,8 +13,3 @@ Unfortunately, there might never be a perfect, general-purpose language because 
 Nearly all my work is in private repos owned by employers. My truly garbage repos are also private.
 
 Edit: maybe [Moonbit?](https://www.moonbitlang.com)
-
-# Readings
-
-Reading into [algebraic effects](https://github.com/yallop/effects-bibliography). 
-
