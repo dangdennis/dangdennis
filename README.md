@@ -1,15 +1,13 @@
 ### Hello
 
-You won't find much anything here except lots of random garbage code I play with.
+You won't find much anything here. 
 
-If there was a perfect language, it'd have:
-1. Unified tooling and stdlib for networking and unix APIs, e.g. cargo, go, dotnet, lsp.
-2. A type system between Haskell, Scala, and OCaml with fast compilation times and easy stdout printing of data.
-3. Can build cross-platform binaries.
-4. Some supervisor-actor + green threads library or runtime, i.e. no function coloring, e.g. BEAM, go, jvm virtual threads.
+There's no single perfect language that has
+1. Unified tooling and grand std lib, e.g. cargo, go std
+2. Fast compilation with deep type system features, e.g. typeclasses
+3. Easy cross compilation
+4. Clean APIs for both async and memory management with no function coloring
 
-Unfortunately, there might never be a perfect, general-purpose language because certain features are diametrically opposed. [This fun post](https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/) explains it very nicely. Perhaps the future is vertically integrated programming languages and DSLs, especially now with the advent of LLMs, assuming LLMs can create, use, and learn DSLs well.
+Perhaps never will be because trade-offs, [link](https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/)
 
-Again, my garbage repos await you.
-
-Edit: maybe [Moonbit?](https://www.moonbitlang.com)
+My hot garbage repos await you.
